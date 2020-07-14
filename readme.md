@@ -1,4 +1,4 @@
-# [Band Website - Pink Floyd](https://thestarvingcoder.github.io/favorite_band/)
+# [Band Website - Pink Floyd](https://horseshoedev.github.io/Favorite_Band_Site/)
 
 ## Milestone Project #1 - Pink Floyd
 
